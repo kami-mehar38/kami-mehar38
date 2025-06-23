@@ -12,13 +12,14 @@ I currently lead a mobile team at a tech company where I’ve spearheaded the de
 - 🍕 **Pizza Hut South Africa**
 - 🏙️ **Dubai South Marketing**
 - 👨‍💼 **Dubai South Employee App**
+- 🖥️ **KFC Kiosk (Flutter Windows Desktop App)**
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 💡 Cross-Platform
-- **Flutter**, **Dart**
+- **Flutter (Mobile & Desktop)**, **Dart**
 - Clean Architecture, State Management (Provider, Riverpod, BLoC)
 - Modular Codebases, Multi-flavor Projects
 
@@ -28,8 +29,9 @@ I currently lead a mobile team at a tech company where I’ve spearheaded the de
 
 ### ☁️ Cloud & Backend
 - **Firebase** (Auth, Firestore, Analytics, Crashlytics, Messaging)
-- RESTful APIs
 - Hive, Local Storage
+- RESTful APIs
+- Offline-first architecture
 
 ### 📍 Maps & Location
 - Google Maps SDK
@@ -39,11 +41,13 @@ I currently lead a mobile team at a tech company where I’ve spearheaded the de
 ### 🚀 DevOps & Deployment
 - CI/CD (Fastlane, GitHub Actions, Bitbucket Pipelines)
 - Play Store & App Store Management
+- Flutter Windows Builds (MSI, EXE Packaging)
 - Code Signing, Versioning, Phased Rollouts
 
 ### 🔐 Security & Integrations
 - End-to-End Encryption
-- Payment Gateway Integration
+- POS System Integration
+- Payment Gateways
 - Push Notifications, Deep Linking
 
 ---
@@ -51,24 +55,28 @@ I currently lead a mobile team at a tech company where I’ve spearheaded the de
 ## 📈 Featured Projects
 
 ### 🍗 KFC Pakistan App
-Full-featured food delivery app with real-time order tracking, promotions, and secure payments.
-> Tech: Flutter, Firebase, Google Maps, Clean Architecture
+Mobile app for food delivery with real-time order tracking, offers, and secure payments.
+> **Tech:** Flutter, Firebase, Google Maps, Clean Architecture
 
 ### 🍕 Domino’s Pakistan App
-Pizza ordering and delivery platform with promo engine and live delivery status.
-> Tech: Flutter, Firebase, Location Services, Modular Architecture
+Feature-rich pizza ordering app with promo code system, tracking, and seamless UI.
+> **Tech:** Flutter, Firebase, Location Services, Modular Architecture
 
 ### 🍕 Pizza Hut Qatar & South Africa
-Multi-language support, region-specific builds, and secure payment workflows.
-> Tech: Flutter, Firebase, i18n, CI/CD, Multi-flavor Architecture
+Multi-language support, future scheduling, and secure checkout with regional customizations.
+> **Tech:** Flutter, Firebase, i18n, CI/CD, Multi-flavor Architecture
 
 ### 🏙️ Dubai South Marketing App
-Promotes Dubai’s largest master development project with multilingual and media-rich content.
-> Tech: Flutter, Firebase Analytics, CI/CD, App Store Management
+Corporate mobile app showcasing Dubai South’s aviation and residential mega-development.
+> **Tech:** Flutter, Firebase Analytics, CI/CD, App Store Management
 
 ### 👨‍💼 Dubai South Employee App
-HR self-service app with features like attendance, leave, banking, and delegation workflows.
-> Tech: Flutter, Firebase, Hive, Secure Role-Based Access
+HR self-service app with features like attendance, leave requests, education, and banking records.
+> **Tech:** Flutter, Firebase, Hive, Secure Role-Based Access
+
+### 🖥️ KFC Kiosk – Flutter Windows Desktop App
+Offline-first self-service ordering system for KFC in-store kiosks. Fully functional without internet and syncs with POS once reconnected.
+> **Tech:** Flutter for Windows, Hive DB, Offline Architecture, POS Integration, Local Sync Queue, Secure Local Storage
 
 ---
 
